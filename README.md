@@ -1,3 +1,3 @@
-# Sandwich_consol_win_32
+# Sandwich_consol_windows
 проверка строки "сендвича"
 приложение в рамках практических заданий с сайта https://ravesli.com/
